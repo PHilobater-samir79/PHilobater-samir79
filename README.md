@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Philobater samir</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/PHilobater-samir79](https://github.com/PHilobater-samir79)
+## 🙋‍♂️ About Me:
+
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
+
+- 🌱 I’m currently learning **Advanced Flutter**.
+
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/PHilobater-samir79](https://github.com/PHilobater-samir79)**.
 
 - 📫 How to reach me **philobatersamir1@gmail.com**
 
