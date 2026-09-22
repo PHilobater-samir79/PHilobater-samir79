@@ -1,27 +1,44 @@
-<h1 align="center">Hi 👋, I'm Philobater samir</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Philobater Samir</h1>
+<h3 align="center">Senior Flutter Developer | Mobile Team Lead | Founder of Altromeda</h3>
 
-## 🙋‍♂️ About Me:
-
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
-
-- 🌱 I’m currently learning **Advanced Flutter**.
-
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/PHilobater-samir79](https://github.com/PHilobater-samir79)**.
-
-- 📫 How to reach me **philobatersamir1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L5tGBiaoiedKnReO70TrD6PfBHv4HPro/view?usp=sharing](https://drive.google.com/file/d/1L5tGBiaoiedKnReO70TrD6PfBHv4HPro/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/philobater-samir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:philobatersamir1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philobater-samir79&show_icons=true&locale=en&layout=compact" alt="philobater-samir79" /></p>
+- 🚀 I’m a **Senior Flutter Developer** with **+4 years** of experience architecting and building scalable, high-performance mobile applications.
+- 👨‍💼 **Founder at Altromeda**, delivering comprehensive web, mobile, UI/UX, and digital marketing solutions.
+- 💡 I specialize in **Clean Architecture, SOLID Principles, and Advanced State Management (BLoC / Riverpod)**.
+- 👥 Experienced in **mentoring and leading development teams (10+ developers)** through the full agile lifecycle.
+- 🌱 Currently exploring deeper integrations with **.NET** and advanced **CI/CD** pipelines.
+- 📄 Discover more about my professional journey in my [Resume](https://drive.google.com/file/d/1L5tGBiaoiedKnReO70TrD6PfBHv4HPro/view?usp=sharing).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philobater-samir79&show_icons=true&locale=en" alt="philobater-samir79" /></p>
+## 🛠️ Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philobater-samir79&" alt="philobater-samir79" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=philobater-samir79&show_icons=true&locale=en&theme=radical" alt="Philobater's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=philobater-samir79&theme=radical" alt="Philobater's GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philobater-samir79&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="60%" />
+</p>
