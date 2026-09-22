@@ -33,12 +33,27 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=philobater-samir79&show_icons=true&locale=en&theme=radical" alt="Philobater's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=philobater-samir79&theme=radical" alt="Philobater's GitHub Streak" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=philobater-samir79&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=1" alt="Profile Views" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philobater-samir79&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=philobater-samir79&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=philobater-samir79&theme=radical&hide_border=true&area=true&v=1" alt="Activity Graph" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=philobater-samir79&show_icons=true&locale=en&theme=radical&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=philobater-samir79&theme=radical&hide_border=true&v=1" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philobater-samir79&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" width="50%" />
 </p>
